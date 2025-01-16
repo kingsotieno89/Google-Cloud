@@ -16,9 +16,3 @@ sudo chmod +x quicklabgsp313.sh
 
 ### Lab might task 10 - 15 mintues to updated the score so don't worry!
 
----
----
-
-**Keep up the great work and continue your learning journey!**
-
-# [QUICKLAB☁️](https://www.youtube.com/@quick_lab) - Don't Forget to Subscribe!
