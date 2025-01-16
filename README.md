@@ -1,6 +1,11 @@
 Implement Load Balancing on Compute Engine: Challenge Lab
 
-This script
+This script will help achieve the following
+Create an instance.
+Create an HTTP load balancer in front of two web servers.
+
+
+
 Task 1. 
 Create a project jumphost instance
 
